@@ -3,13 +3,8 @@
 <div id="top"></div>
 
 <div align="center">
-  <img src="resources\logo.png" alt="Translate logo" height="250">
-  <h3 align="center">Assignment 4</h3>
-  <p align="center">
-    Heroku App
-    <br />
-    <a href="https://pokemon-assignment-4.herokuapp.com/">Demo</a>
-  </p>
+  <img src="" alt="" height="250">
+  <h3 align="center">Assignment 5</h3>
 </div>
 
 # Table of Contents
